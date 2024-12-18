@@ -2,7 +2,7 @@
 
 <p align=center>A Next.js template powered by Tailwind CSS and TypeScript, specifically designed for Shopify. Utilizes the Shopify Storefront API through GraphQL and providing everything you need to jumpstart your Next project and save valuable time.</p>
 
-<p align=center> This project has been clone from <a target="_blank" href="https://github.com/zeon-studio/commerceplate">zeon-studio/commerceplate</a>, please give it a ⭐ to show your support. </p>
+<p align=center> This project has been cloned from <a target="_blank" href="https://github.com/zeon-studio/commerceplate">zeon-studio/commerceplate</a>, please give it a ⭐ to show your support. </p>
 
 ## 📌 Key Features
 
