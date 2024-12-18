@@ -42,8 +42,8 @@
   },
 
   "shopify": {
-    "currencySymbol": "TND",
-    "currencyCode": "Dinare",
+    "currencySymbol": "$",
+    "currencyCode": "USD",
     "collections": {
       "hero_slider": "hidden-homepage-carousel",
       "featured_products": "featured-products"
